@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./motor-inc.component.css']
 })
 export class MotorIncComponent {
-
+  public data:any;
 }
